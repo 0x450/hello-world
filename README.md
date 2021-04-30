@@ -2,9 +2,6 @@
 its cool i guess
 
 # how to compile
-download nasm
-download gcc
+install [this](https://www.nasm.org/)
 
-`nasm -fwin32 main.asm`
-`gcc main.obj`
-`.\a.exe or ./a.out`
+and install [this](https://gcc.gnu.org/)
