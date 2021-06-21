@@ -13,4 +13,4 @@ then do these commands
 
 `gcc main.obj`
 
-`.\a.exe`3
+`.\a.exe`
